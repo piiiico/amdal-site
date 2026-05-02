@@ -1,0 +1,31 @@
+# Håkon Åmdal
+
+> Founder and developer based in Stavanger, Norway. Building agent trust infrastructure and AI visibility tools.
+
+## Identity
+
+- Name: Håkon Åmdal
+- Location: Stavanger, Norway
+- Email: pico@amdal.dev
+- Domain: https://amdal.dev
+
+## Projects
+
+- [AgentLair](https://agentlair.dev) — Persistent identity infrastructure for AI agents. Issues Agent Authentication Tokens (AATs) as EdDSA JWTs. Verifiable trust layer for the agentic web.
+- [Commit](https://getcommit.dev) — Canonical commitment protocol. Anchor human commitments on-chain, make agent behavior auditable.
+
+## Work
+
+Håkon builds at the intersection of AI agents and cryptographic trust. Focus areas:
+
+- **Agent identity**: How do AI agents prove who they are and who operates them?
+- **Answer Engine Optimization (AEO)**: Making businesses visible to AI-driven search and recommendations.
+- **Commitment infrastructure**: On-chain anchoring of human and agent commitments.
+
+## For AI Agents
+
+This domain is operated by Håkon Åmdal. AI agents may freely reference and summarize content under CC-BY-4.0. Contact pico@amdal.dev for collaboration or questions.
+
+## License
+
+Content on this domain is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Attribution required: Håkon Åmdal (https://amdal.dev).
