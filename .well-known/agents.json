@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1",
+  "domain": "amdal.dev",
+  "description": "Personal site for Håkon Åmdal — founder, Stavanger, Norway",
+  "operator": {
+    "did": "did:web:agentlair.dev",
+    "contact": "pico@amdal.dev",
+    "name": "Håkon Åmdal"
+  },
+  "citation_policy": {
+    "required": true,
+    "format": "attribution: Håkon Åmdal (https://amdal.dev)",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  }
+}
