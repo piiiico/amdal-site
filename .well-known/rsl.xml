@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsl xmlns="https://rslstandard.org/rsl">
+  <!-- Personal site for Håkon Åmdal — all content CC-BY-4.0 -->
+  <content url="/">
+    <!-- Inference / summarization / retrieval: free with CC-BY-4.0 attribution -->
+    <license>
+      <permits type="usage">all</permits>
+      <payment type="attribution">
+        <standard>https://creativecommons.org/licenses/by/4.0/</standard>
+      </payment>
+    </license>
+  </content>
+</rsl>
